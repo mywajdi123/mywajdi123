@@ -1,11 +1,9 @@
 # Hi there, I'm Mohamad Yaqoob Wajdi 👋
 
-** Computer Science Student @UVA | Full-Stack Developer | Problem Solver**
-
-I'm a CS student at the University of Virginia with a passion for building innovative software solutions. Currently working as a Software Developer Intern at CACI International, where I develop satellite tracking applications for government operations.
+Computer Science Student @UVA | Full-Stack Developer | Problem Solver
 
 ## 🔭 What I'm Working On
-- Building full-stack satellite tasking and scheduling applications with 3D visualization
+- Building full stack satellite tasking and scheduling applications with 3D visualization
 - Developing RESTful APIs with Spring Boot and PostgreSQL
 - Creating interactive 3D web experiences with React and Three.js
 
