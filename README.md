@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Mohamad Yaqoob Wajdi 👋
 
-<!--
-**mywajdi123/mywajdi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Computer Science Student @UVA | Full-Stack Developer | Problem Solver**
 
-Here are some ideas to get you started:
+I'm a CS student at the University of Virginia with a passion for building innovative software solutions. Currently working as a Software Developer Intern at CACI International, where I develop satellite tracking applications for government operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+- Building full-stack satellite tasking and scheduling applications with 3D visualization
+- Developing RESTful APIs with Spring Boot and PostgreSQL
+- Creating interactive 3D web experiences with React and Three.js
+
+## 💻 Tech Stack
+**Languages:** Python • Java • TypeScript • JavaScript • SQL • C++ • R  
+**Frontend:** React • Three.js • HTML/CSS • Tailwind CSS  
+**Backend:** Spring Boot • Django • Node.js • PostgreSQL  
+**Tools:** Git • Docker • AWS • Linux • CI/CD Pipelines  
+
+## 🚀 Featured Projects
+- **[Interactive 3D Portfolio](https://yaqoobwajdi.com)** - Responsive 3D portfolio with React, Three.js, and Framer Motion
+- **Pharmacy Management App** - Full-stack Next.js application with role-based authentication
+- **AI Car Parts Identifier** - Computer vision system using OCR and machine learning
+- **Netflix-Style Movie Platform** - React app with glassmorphism design and TMDB API
+
+## 📫 Let's Connect
+- **Portfolio:** [yaqoobwajdi.com](https://yaqoobwajdi.com)
+- **LinkedIn:** [linkedin.com/in/MohamadYWajdi](https://linkedin.com/in/MohamadYWajdi)
+- **Email:** yaqoob.wajdi@gmail.com
