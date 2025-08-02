@@ -23,6 +23,3 @@ Computer Science Student @UVA | Full-Stack Developer | Problem Solver
 - **Portfolio:** [yaqoobwajdi.com](https://yaqoobwajdi.com)
 - **LinkedIn:** [linkedin.com/in/MohamadYWajdi](https://linkedin.com/in/MohamadYWajdi)
 - **Email:** yaqoob.wajdi@gmail.com
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mywajdi123&show_icons=true&theme=default)
